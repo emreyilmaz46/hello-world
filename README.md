@@ -1,5 +1,5 @@
 # hello-world
-Addressing this tradition is a must to me!
+Addressing this tradition is a must!
 
 <?php
 echo "Hello World!";
